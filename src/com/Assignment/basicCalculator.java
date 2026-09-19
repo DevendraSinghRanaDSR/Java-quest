@@ -1,5 +1,4 @@
-package Com.Assignment;
-import java.sql.SQLOutput;
+package com.Assignment;
 import java.util.Scanner;
 public class basicCalculator {
     public static void main(String[] args) {

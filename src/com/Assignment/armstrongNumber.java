@@ -1,4 +1,4 @@
-package Com.Assignment;
+package com.Assignment;
 import java.util.Scanner;
 public class armstrongNumber {
     public static void main(String[] args) {

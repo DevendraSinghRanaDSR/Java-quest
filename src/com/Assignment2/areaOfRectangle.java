@@ -1,4 +1,4 @@
-package Com.Assignment2;
+package com.Assignment2;
 
 import java.util.Scanner;
 public class areaOfRectangle {

@@ -1,5 +1,4 @@
-package Com.Assignment2;
-import java.sql.SQLOutput;
+package com.Assignment2;
 import java.util.Scanner;
 public class areaOfCircle {
     public static void main(String[] args) {
